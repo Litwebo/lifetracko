@@ -1,0 +1,6 @@
+{
+  "name": "Life Tracko",
+  "description": "Track your health. Manage your money. Improve your day. A full-stack Diet, Nutrition, Money and Expense Tracking System with secure authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,984 @@
+{
+  "version": 1,
+  "vaultName": "LifeTracko Dedicated Permanent User Data Vault",
+  "createdAt": "2026-09-13T11:56:53.992Z",
+  "lastUpdated": "2026-09-13T12:55:03.402Z",
+  "users": {
+    "member-demo-001": {
+      "userId": "member-demo-001",
+      "email": "",
+      "foodEntries": [
+        {
+          "id": 1,
+          "userId": "member-demo-001",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Boiled Egg (Large)",
+          "mealType": "Breakfast",
+          "quantity": 3,
+          "unit": "pieces",
+          "calories": 234,
+          "protein": 18.9,
+          "notes": "Salt & pepper",
+          "createdAt": "2026-09-13T11:34:17.622Z"
+        },
+        {
+          "id": 2,
+          "userId": "member-demo-001",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Whole Wheat Bread Slice",
+          "mealType": "Breakfast",
+          "quantity": 2,
+          "unit": "pieces",
+          "calories": 150,
+          "protein": 7,
+          "notes": "Toasted",
+          "createdAt": "2026-09-13T11:34:17.622Z"
+        },
+        {
+          "id": 3,
+          "userId": "member-demo-001",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Chicken Breast (Cooked)",
+          "mealType": "Lunch",
+          "quantity": 200,
+          "unit": "grams",
+          "calories": 330,
+          "protein": 62,
+          "notes": "Herb grilled",
+          "createdAt": "2026-09-13T11:34:17.622Z"
+        },
+        {
+          "id": 4,
+          "userId": "member-demo-001",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Brown Rice (Cooked)",
+          "mealType": "Lunch",
+          "quantity": 150,
+          "unit": "grams",
+          "calories": 170,
+          "protein": 3.8,
+          "notes": "Steamed",
+          "createdAt": "2026-09-13T11:34:17.622Z"
+        },
+        {
+          "id": 5,
+          "userId": "member-demo-001",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Banana (Medium)",
+          "mealType": "Snack",
+          "quantity": 1,
+          "unit": "pieces",
+          "calories": 105,
+          "protein": 1.3,
+          "notes": "Post workout",
+          "createdAt": "2026-09-13T11:34:17.622Z"
+        },
+        {
+          "id": 6,
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "foodId": null,
+          "foodName": "Oatmeal (Rolled Oats)",
+          "mealType": "Breakfast",
+          "quantity": 60,
+          "unit": "grams",
+          "calories": 228,
+          "protein": 7.8,
+          "notes": "With milk & berries",
+          "createdAt": "2026-09-13T11:34:17.633Z"
+        },
+        {
+          "id": 7,
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "foodId": null,
+          "foodName": "Greek Yogurt (Plain)",
+          "mealType": "Breakfast",
+          "quantity": 150,
+          "unit": "grams",
+          "calories": 130,
+          "protein": 15,
+          "notes": "Unsweetened",
+          "createdAt": "2026-09-13T11:34:17.633Z"
+        },
+        {
+          "id": 8,
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "foodId": null,
+          "foodName": "Paneer (Cottage Cheese)",
+          "mealType": "Lunch",
+          "quantity": 150,
+          "unit": "grams",
+          "calories": 398,
+          "protein": 27.5,
+          "notes": "Tawa paneer",
+          "createdAt": "2026-09-13T11:34:17.633Z"
+        },
+        {
+          "id": 9,
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "foodId": null,
+          "foodName": "Roti / Chapati (Whole Wheat)",
+          "mealType": "Lunch",
+          "quantity": 3,
+          "unit": "pieces",
+          "calories": 255,
+          "protein": 9.3,
+          "notes": "Ghee brushed",
+          "createdAt": "2026-09-13T11:34:17.633Z"
+        },
+        {
+          "id": 10,
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "foodId": null,
+          "foodName": "Salmon Fillet",
+          "mealType": "Dinner",
+          "quantity": 180,
+          "unit": "grams",
+          "calories": 372,
+          "protein": 40.8,
+          "notes": "Lemon garlic pan seared",
+          "createdAt": "2026-09-13T11:34:17.633Z"
+        },
+        {
+          "id": 11,
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "foodId": null,
+          "foodName": "Steamed Broccoli",
+          "mealType": "Dinner",
+          "quantity": 150,
+          "unit": "grams",
+          "calories": 53,
+          "protein": 4.2,
+          "notes": "Lightly salted",
+          "createdAt": "2026-09-13T11:34:17.633Z"
+        },
+        {
+          "id": 12,
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "foodId": null,
+          "foodName": "Almonds (Raw)",
+          "mealType": "Snack",
+          "quantity": 30,
+          "unit": "grams",
+          "calories": 175,
+          "protein": 6.3,
+          "notes": "Evening energy",
+          "createdAt": "2026-09-13T11:34:17.633Z"
+        }
+      ],
+      "dailyNutrition": {
+        "2026-09-13": {
+          "userId": "member-demo-001",
+          "date": "2026-09-13",
+          "totalCalories": 989,
+          "totalProtein": 93,
+          "updatedAt": "2026-09-13T11:56:55.047Z"
+        },
+        "2026-09-12": {
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "totalCalories": 1611,
+          "totalProtein": 110.9,
+          "updatedAt": "2026-09-13T11:56:55.047Z"
+        },
+        "2026-09-11": {
+          "userId": "member-demo-001",
+          "date": "2026-09-11",
+          "totalCalories": 2145,
+          "totalProtein": 122,
+          "updatedAt": "2026-09-13T11:56:55.047Z"
+        }
+      },
+      "expenses": [
+        {
+          "id": 1,
+          "userId": "member-demo-001",
+          "date": "2026-09-13",
+          "description": "Grocery & Fresh Chicken",
+          "category": "Food",
+          "amount": 450,
+          "notes": "Weekly protein stock",
+          "createdAt": "2026-09-13T11:34:17.628Z"
+        },
+        {
+          "id": 2,
+          "userId": "member-demo-001",
+          "date": "2026-09-13",
+          "description": "Metro Train Pass",
+          "category": "Travel",
+          "amount": 80,
+          "notes": "Daily commute",
+          "createdAt": "2026-09-13T11:34:17.628Z"
+        },
+        {
+          "id": 3,
+          "userId": "member-demo-001",
+          "date": "2026-09-13",
+          "description": "Espresso Coffee",
+          "category": "Food",
+          "amount": 120,
+          "notes": "Café work session",
+          "createdAt": "2026-09-13T11:34:17.628Z"
+        },
+        {
+          "id": 4,
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "description": "Lunch with team",
+          "category": "Food",
+          "amount": 320,
+          "notes": "Healthy bowl",
+          "createdAt": "2026-09-13T11:34:17.636Z"
+        },
+        {
+          "id": 5,
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "description": "Fuel for vehicle",
+          "category": "Travel",
+          "amount": 500,
+          "notes": "Petrol station",
+          "createdAt": "2026-09-13T11:34:17.636Z"
+        },
+        {
+          "id": 6,
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "description": "Pharmacy multivitamin",
+          "category": "Health",
+          "amount": 350,
+          "notes": "Monthly supply",
+          "createdAt": "2026-09-13T11:34:17.636Z"
+        }
+      ],
+      "dailyMoney": {
+        "2026-09-13": {
+          "userId": "member-demo-001",
+          "date": "2026-09-13",
+          "startingBalance": 2500,
+          "totalSpent": 650,
+          "expectedEndingBalance": 1850,
+          "actualEndingBalance": 1850,
+          "updatedAt": "2026-09-13T11:56:55.045Z"
+        },
+        "2026-09-12": {
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "startingBalance": 3670,
+          "totalSpent": 1170,
+          "expectedEndingBalance": 2500,
+          "actualEndingBalance": 2500,
+          "updatedAt": "2026-09-13T11:56:55.045Z"
+        },
+        "2026-09-11": {
+          "userId": "member-demo-001",
+          "date": "2026-09-11",
+          "startingBalance": 4500,
+          "totalSpent": 830,
+          "expectedEndingBalance": 3670,
+          "actualEndingBalance": 3670,
+          "updatedAt": "2026-09-13T11:56:55.045Z"
+        }
+      },
+      "bodyWeights": [
+        {
+          "id": 1,
+          "userId": "member-demo-001",
+          "date": "2026-09-13",
+          "weight": 74.8,
+          "unit": "kg",
+          "notes": "Morning, empty stomach",
+          "createdAt": "2026-09-13T11:34:17.618Z"
+        },
+        {
+          "id": 2,
+          "userId": "member-demo-001",
+          "date": "2026-09-12",
+          "weight": 75.2,
+          "unit": "kg",
+          "notes": "Post morning walk",
+          "createdAt": "2026-09-13T11:34:17.618Z"
+        },
+        {
+          "id": 3,
+          "userId": "member-demo-001",
+          "date": "2026-09-11",
+          "weight": 75.6,
+          "unit": "kg",
+          "notes": "Start of check-in",
+          "createdAt": "2026-09-13T11:34:17.618Z"
+        }
+      ],
+      "nutritionGoals": {
+        "userId": "member-demo-001",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T11:56:55.039Z"
+      }
+    },
+    "user_f58205131611fcee": {
+      "userId": "user_f58205131611fcee",
+      "email": "user_1789303652168@gmail.com",
+      "foodEntries": [
+        {
+          "id": 13,
+          "userId": "user_f58205131611fcee",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Oatmeal & Milk",
+          "mealType": "Breakfast",
+          "quantity": 1,
+          "unit": "bowl",
+          "calories": 350,
+          "protein": 15,
+          "notes": "Healthy breakfast",
+          "createdAt": "2026-09-13T12:47:32.776Z",
+          "updatedAt": "2026-09-13T12:47:32.783Z"
+        },
+        {
+          "id": 14,
+          "userId": "user_f58205131611fcee",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Grilled Chicken Breast",
+          "mealType": "Lunch",
+          "quantity": 200,
+          "unit": "g",
+          "calories": 330,
+          "protein": 62,
+          "notes": "High protein lunch",
+          "createdAt": "2026-09-13T12:47:32.880Z",
+          "updatedAt": "2026-09-13T12:47:32.886Z"
+        }
+      ],
+      "dailyNutrition": {},
+      "expenses": [
+        {
+          "id": 7,
+          "userId": "user_f58205131611fcee",
+          "date": "2026-09-13",
+          "description": "Morning Grocery",
+          "category": "Food",
+          "amount": 350,
+          "notes": "Milk, oats, honey",
+          "createdAt": "2026-09-13T12:47:32.546Z",
+          "updatedAt": "2026-09-13T12:47:32.554Z"
+        },
+        {
+          "id": 8,
+          "userId": "user_f58205131611fcee",
+          "date": "2026-09-13",
+          "description": "Metro Pass Recharge",
+          "category": "Travel",
+          "amount": 200,
+          "notes": "Commute",
+          "createdAt": "2026-09-13T12:47:32.658Z",
+          "updatedAt": "2026-09-13T12:47:32.665Z"
+        }
+      ],
+      "dailyMoney": {},
+      "bodyWeights": [],
+      "nutritionGoals": {
+        "userId": "user_f58205131611fcee",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T12:47:32.420Z"
+      }
+    },
+    "user_14a9b1082ace6ac1": {
+      "userId": "user_14a9b1082ace6ac1",
+      "email": "check_1789303688018@gmail.com",
+      "foodEntries": [
+        {
+          "id": 15,
+          "userId": "user_14a9b1082ace6ac1",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Chicken Salad",
+          "mealType": "Lunch",
+          "quantity": 1,
+          "unit": "plate",
+          "calories": 450,
+          "protein": 40,
+          "notes": "",
+          "createdAt": "2026-09-13T12:48:08.572Z",
+          "updatedAt": "2026-09-13T12:48:08.579Z"
+        }
+      ],
+      "dailyNutrition": {},
+      "expenses": [
+        {
+          "id": 9,
+          "userId": "user_14a9b1082ace6ac1",
+          "date": "2026-09-13",
+          "description": "Lunch",
+          "category": "Food",
+          "amount": 200,
+          "notes": "",
+          "createdAt": "2026-09-13T12:48:08.457Z",
+          "updatedAt": "2026-09-13T12:48:08.464Z"
+        }
+      ],
+      "dailyMoney": {},
+      "bodyWeights": [],
+      "nutritionGoals": {
+        "userId": "user_14a9b1082ace6ac1",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T12:48:08.366Z"
+      }
+    },
+    "user_9bc06595beaab059": {
+      "userId": "user_9bc06595beaab059",
+      "email": "sqltest_1789303793973@gmail.com",
+      "foodEntries": [
+        {
+          "id": 16,
+          "userId": "user_9bc06595beaab059",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Paneer Butter Masala",
+          "mealType": "Lunch",
+          "quantity": 200,
+          "unit": "g",
+          "calories": 450,
+          "protein": 22,
+          "notes": "",
+          "createdAt": "2026-09-13T12:49:54.680Z",
+          "updatedAt": "2026-09-13T12:49:54.688Z"
+        },
+        {
+          "id": 17,
+          "userId": "user_9bc06595beaab059",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Whey Protein Shake",
+          "mealType": "Snacks",
+          "quantity": 1,
+          "unit": "scoop",
+          "calories": 130,
+          "protein": 26,
+          "notes": "",
+          "createdAt": "2026-09-13T12:49:54.836Z",
+          "updatedAt": "2026-09-13T12:49:54.855Z"
+        }
+      ],
+      "dailyNutrition": {},
+      "expenses": [
+        {
+          "id": 10,
+          "userId": "user_9bc06595beaab059",
+          "date": "2026-09-13",
+          "description": "Supermarket Groceries",
+          "category": "Food",
+          "amount": 650,
+          "notes": "Rice, dal, vegetables",
+          "createdAt": "2026-09-13T12:49:54.465Z",
+          "updatedAt": "2026-09-13T12:49:54.472Z"
+        },
+        {
+          "id": 11,
+          "userId": "user_9bc06595beaab059",
+          "date": "2026-09-13",
+          "description": "Fuel",
+          "category": "Travel",
+          "amount": 350,
+          "notes": "",
+          "createdAt": "2026-09-13T12:49:54.578Z",
+          "updatedAt": "2026-09-13T12:49:54.585Z"
+        }
+      ],
+      "dailyMoney": {},
+      "bodyWeights": [],
+      "nutritionGoals": {
+        "userId": "user_9bc06595beaab059",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T12:49:54.351Z"
+      }
+    },
+    "user_f48a758af02cde50": {
+      "userId": "user_f48a758af02cde50",
+      "email": "sqltest_fresh_1789303811364@gmail.com",
+      "foodEntries": [
+        {
+          "id": 18,
+          "userId": "user_f48a758af02cde50",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Paneer Butter Masala",
+          "mealType": "Lunch",
+          "quantity": 200,
+          "unit": "g",
+          "calories": 450,
+          "protein": 22,
+          "notes": "",
+          "createdAt": "2026-09-13T12:50:11.993Z",
+          "updatedAt": "2026-09-13T12:50:11.999Z"
+        },
+        {
+          "id": 19,
+          "userId": "user_f48a758af02cde50",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Whey Protein Shake",
+          "mealType": "Snacks",
+          "quantity": 1,
+          "unit": "scoop",
+          "calories": 130,
+          "protein": 26,
+          "notes": "",
+          "createdAt": "2026-09-13T12:50:12.074Z",
+          "updatedAt": "2026-09-13T12:50:12.080Z"
+        }
+      ],
+      "dailyNutrition": {},
+      "expenses": [
+        {
+          "id": 12,
+          "userId": "user_f48a758af02cde50",
+          "date": "2026-09-13",
+          "description": "Supermarket Groceries",
+          "category": "Food",
+          "amount": 650,
+          "notes": "Rice, dal, vegetables",
+          "createdAt": "2026-09-13T12:50:11.805Z",
+          "updatedAt": "2026-09-13T12:50:11.812Z"
+        },
+        {
+          "id": 13,
+          "userId": "user_f48a758af02cde50",
+          "date": "2026-09-13",
+          "description": "Fuel",
+          "category": "Travel",
+          "amount": 350,
+          "notes": "",
+          "createdAt": "2026-09-13T12:50:11.901Z",
+          "updatedAt": "2026-09-13T12:50:11.910Z"
+        }
+      ],
+      "dailyMoney": {},
+      "bodyWeights": [],
+      "nutritionGoals": {
+        "userId": "user_f48a758af02cde50",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T12:50:11.706Z"
+      }
+    },
+    "user_17fd46afc9b260e8": {
+      "userId": "user_17fd46afc9b260e8",
+      "email": "check_raw_1789303830811@gmail.com",
+      "foodEntries": [
+        {
+          "id": 21,
+          "userId": "user_17fd46afc9b260e8",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Apple",
+          "mealType": "Snack",
+          "quantity": 1,
+          "unit": "piece",
+          "calories": 95,
+          "protein": 0.5,
+          "notes": "",
+          "createdAt": "2026-09-13T12:51:33.867Z"
+        }
+      ],
+      "dailyNutrition": {
+        "2026-09-13": {
+          "userId": "user_17fd46afc9b260e8",
+          "date": "2026-09-13",
+          "totalCalories": 95,
+          "totalProtein": 0.5,
+          "updatedAt": "2026-09-13T12:54:57.744Z"
+        }
+      },
+      "expenses": [],
+      "dailyMoney": {},
+      "bodyWeights": [],
+      "nutritionGoals": {
+        "userId": "user_17fd46afc9b260e8",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T12:50:31.151Z"
+      }
+    },
+    "user_81b5abeecaffe5eb": {
+      "userId": "user_81b5abeecaffe5eb",
+      "email": "verified_1789303881084@gmail.com",
+      "foodEntries": [
+        {
+          "id": 20,
+          "userId": "user_81b5abeecaffe5eb",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Paneer Wrap",
+          "mealType": "Lunch",
+          "quantity": 1,
+          "unit": "wrap",
+          "calories": 420,
+          "protein": 24,
+          "notes": "",
+          "createdAt": "2026-09-13T12:51:21.543Z",
+          "updatedAt": "2026-09-13T12:51:21.550Z"
+        }
+      ],
+      "dailyNutrition": {},
+      "expenses": [
+        {
+          "id": 14,
+          "userId": "user_81b5abeecaffe5eb",
+          "date": "2026-09-13",
+          "description": "Organic Vegetables",
+          "category": "Food",
+          "amount": 450,
+          "notes": "Tomatoes & Spinach",
+          "createdAt": "2026-09-13T12:51:21.454Z",
+          "updatedAt": "2026-09-13T12:51:21.461Z"
+        }
+      ],
+      "dailyMoney": {},
+      "bodyWeights": [],
+      "nutritionGoals": {
+        "userId": "user_81b5abeecaffe5eb",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T12:51:21.353Z"
+      }
+    },
+    "user_196908f50a130156": {
+      "userId": "user_196908f50a130156",
+      "email": "vinayak_test_1789303903468@gmail.com",
+      "foodEntries": [
+        {
+          "id": 22,
+          "userId": "user_196908f50a130156",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Oatmeal & Almond Milk",
+          "mealType": "Breakfast",
+          "quantity": 1,
+          "unit": "bowl",
+          "calories": 350,
+          "protein": 12,
+          "notes": "",
+          "createdAt": "2026-09-13T12:51:44.041Z",
+          "updatedAt": "2026-09-13T12:51:44.047Z"
+        },
+        {
+          "id": 23,
+          "userId": "user_196908f50a130156",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Grilled Chicken Breast",
+          "mealType": "Lunch",
+          "quantity": 200,
+          "unit": "g",
+          "calories": 330,
+          "protein": 62,
+          "notes": "",
+          "createdAt": "2026-09-13T12:51:44.149Z",
+          "updatedAt": "2026-09-13T12:51:44.159Z"
+        }
+      ],
+      "dailyNutrition": {},
+      "expenses": [
+        {
+          "id": 15,
+          "userId": "user_196908f50a130156",
+          "date": "2026-09-13",
+          "description": "Organic Vegetables",
+          "category": "Food",
+          "amount": 450,
+          "notes": "Tomatoes & Spinach",
+          "createdAt": "2026-09-13T12:51:43.850Z",
+          "updatedAt": "2026-09-13T12:51:43.861Z"
+        },
+        {
+          "id": 16,
+          "userId": "user_196908f50a130156",
+          "date": "2026-09-13",
+          "description": "Metro Pass",
+          "category": "Travel",
+          "amount": 150,
+          "notes": "",
+          "createdAt": "2026-09-13T12:51:43.951Z",
+          "updatedAt": "2026-09-13T12:51:43.958Z"
+        }
+      ],
+      "dailyMoney": {},
+      "bodyWeights": [],
+      "nutritionGoals": {
+        "userId": "user_196908f50a130156",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T12:51:43.742Z"
+      }
+    },
+    "user_f94f9bddad7c96f2": {
+      "userId": "user_f94f9bddad7c96f2",
+      "email": "testuser_1789303934899@gmail.com",
+      "foodEntries": [
+        {
+          "id": 24,
+          "userId": "user_f94f9bddad7c96f2",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Paneer Rice Bowl",
+          "mealType": "Lunch",
+          "quantity": 1,
+          "unit": "bowl",
+          "calories": 480,
+          "protein": 26,
+          "notes": "Homemade",
+          "createdAt": "2026-09-13T12:52:15.372Z",
+          "updatedAt": "2026-09-13T12:52:15.380Z"
+        }
+      ],
+      "dailyNutrition": {},
+      "expenses": [
+        {
+          "id": 17,
+          "userId": "user_f94f9bddad7c96f2",
+          "date": "2026-09-13",
+          "description": "Groceries & Milk",
+          "category": "Food",
+          "amount": 450,
+          "notes": "Weekly fresh items",
+          "createdAt": "2026-09-13T12:52:15.279Z",
+          "updatedAt": "2026-09-13T12:52:15.287Z"
+        }
+      ],
+      "dailyMoney": {},
+      "bodyWeights": [
+        {
+          "id": 2,
+          "userId": "user_f94f9bddad7c96f2",
+          "date": "2026-09-13",
+          "weight": 72.5,
+          "unit": "kg",
+          "notes": "Morning weight",
+          "createdAt": "2026-09-13T12:52:48.959Z"
+        }
+      ],
+      "nutritionGoals": {
+        "userId": "user_f94f9bddad7c96f2",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T12:52:15.182Z"
+      }
+    },
+    "user_687e24aacdca2cdc": {
+      "userId": "user_687e24aacdca2cdc",
+      "email": "testuser_1789303999774@gmail.com",
+      "foodEntries": [
+        {
+          "id": 25,
+          "userId": "user_687e24aacdca2cdc",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Paneer Rice Bowl",
+          "mealType": "Lunch",
+          "quantity": 1,
+          "unit": "bowl",
+          "calories": 480,
+          "protein": 26,
+          "notes": "Homemade",
+          "createdAt": "2026-09-13T12:53:20.293Z",
+          "updatedAt": "2026-09-13T12:53:20.302Z"
+        }
+      ],
+      "dailyNutrition": {},
+      "expenses": [
+        {
+          "id": 18,
+          "userId": "user_687e24aacdca2cdc",
+          "date": "2026-09-13",
+          "description": "Groceries & Milk",
+          "category": "Food",
+          "amount": 450,
+          "notes": "Weekly fresh items",
+          "createdAt": "2026-09-13T12:53:20.179Z",
+          "updatedAt": "2026-09-13T12:53:20.185Z"
+        }
+      ],
+      "dailyMoney": {},
+      "bodyWeights": [],
+      "nutritionGoals": {
+        "userId": "user_687e24aacdca2cdc",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T12:53:20.066Z"
+      }
+    },
+    "user_4859f8fd5c8b8cd9": {
+      "userId": "user_4859f8fd5c8b8cd9",
+      "email": "testuser_1789304064014@gmail.com",
+      "foodEntries": [
+        {
+          "id": 26,
+          "userId": "user_4859f8fd5c8b8cd9",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Paneer Rice Bowl",
+          "mealType": "Lunch",
+          "quantity": 1,
+          "unit": "bowl",
+          "calories": 480,
+          "protein": 26,
+          "notes": "Homemade",
+          "createdAt": "2026-09-13T12:54:24.561Z",
+          "updatedAt": "2026-09-13T12:54:24.568Z"
+        }
+      ],
+      "dailyNutrition": {},
+      "expenses": [
+        {
+          "id": 19,
+          "userId": "user_4859f8fd5c8b8cd9",
+          "date": "2026-09-13",
+          "description": "Groceries & Milk",
+          "category": "Food",
+          "amount": 450,
+          "notes": "Weekly fresh items",
+          "createdAt": "2026-09-13T12:54:24.439Z",
+          "updatedAt": "2026-09-13T12:54:24.447Z"
+        }
+      ],
+      "dailyMoney": {},
+      "bodyWeights": [],
+      "nutritionGoals": {
+        "userId": "user_4859f8fd5c8b8cd9",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T12:54:24.320Z"
+      }
+    },
+    "user_50f111230d93f1f0": {
+      "userId": "user_50f111230d93f1f0",
+      "email": "testuser_1789304075549@gmail.com",
+      "foodEntries": [
+        {
+          "id": 27,
+          "userId": "user_50f111230d93f1f0",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Paneer Rice Bowl",
+          "mealType": "Lunch",
+          "quantity": 1,
+          "unit": "bowl",
+          "calories": 480,
+          "protein": 26,
+          "notes": "Homemade",
+          "createdAt": "2026-09-13T12:54:36.181Z"
+        }
+      ],
+      "dailyNutrition": {},
+      "expenses": [
+        {
+          "id": 20,
+          "userId": "user_50f111230d93f1f0",
+          "date": "2026-09-13",
+          "description": "Groceries & Milk",
+          "category": "Food",
+          "amount": 450,
+          "notes": "Weekly fresh items",
+          "createdAt": "2026-09-13T12:54:36.067Z",
+          "updatedAt": "2026-09-13T12:54:36.074Z"
+        }
+      ],
+      "dailyMoney": {},
+      "bodyWeights": [],
+      "nutritionGoals": {
+        "userId": "user_50f111230d93f1f0",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T12:54:35.943Z"
+      }
+    },
+    "user_70de346aab6cb572": {
+      "userId": "user_70de346aab6cb572",
+      "email": "testuser_1789304102785@gmail.com",
+      "foodEntries": [
+        {
+          "id": 28,
+          "userId": "user_70de346aab6cb572",
+          "date": "2026-09-13",
+          "foodId": null,
+          "foodName": "Paneer Rice Bowl",
+          "mealType": "Lunch",
+          "quantity": 1,
+          "unit": "bowl",
+          "calories": 480,
+          "protein": 26,
+          "notes": "Homemade",
+          "createdAt": "2026-09-13T12:55:03.195Z",
+          "updatedAt": "2026-09-13T12:55:03.201Z"
+        }
+      ],
+      "dailyNutrition": {
+        "2026-09-13": {
+          "userId": "user_70de346aab6cb572",
+          "date": "2026-09-13",
+          "totalCalories": 480,
+          "totalProtein": 26,
+          "updatedAt": "2026-09-13T12:55:03.232Z"
+        }
+      },
+      "expenses": [
+        {
+          "id": 21,
+          "userId": "user_70de346aab6cb572",
+          "date": "2026-09-13",
+          "description": "Groceries & Milk",
+          "category": "Food",
+          "amount": 450,
+          "notes": "Weekly fresh items",
+          "createdAt": "2026-09-13T12:55:03.149Z",
+          "updatedAt": "2026-09-13T12:55:03.155Z"
+        }
+      ],
+      "dailyMoney": {
+        "2026-09-13": {
+          "userId": "user_70de346aab6cb572",
+          "date": "2026-09-13",
+          "startingBalance": 5000,
+          "totalSpent": 450,
+          "expectedEndingBalance": 4550,
+          "actualEndingBalance": 4550,
+          "updatedAt": "2026-09-13T12:55:03.401Z"
+        }
+      },
+      "bodyWeights": [
+        {
+          "id": 3,
+          "userId": "user_70de346aab6cb572",
+          "date": "2026-09-13",
+          "weight": 72.5,
+          "unit": "kg",
+          "notes": "Morning weight",
+          "createdAt": "2026-09-13T12:55:03.264Z",
+          "updatedAt": "2026-09-13T12:55:03.270Z"
+        }
+      ],
+      "nutritionGoals": {
+        "userId": "user_70de346aab6cb572",
+        "dailyCalories": 2200,
+        "dailyProtein": 120,
+        "updatedAt": "2026-09-13T12:55:03.053Z"
+      }
+    }
+  }
+}
